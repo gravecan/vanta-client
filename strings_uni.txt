@@ -1,0 +1,723 @@
+SystemRoot
+Windows\
+SystemDrive
+ProgramFiles
+ProgramFiles(x86)
+ProgramW6432
+Microsoft\
+ProgramData
+NVIDIA\
+NVIDIA Corporation\
+Intel\
+Discord\
+Steam\
+LocalAppData
+AppData
+C:\Windows\
+C:\WINDOWS\
+C:\Program Files\
+C:\Program Files (x86)\
+C:\ProgramData\
+\Temp\
+\AppData\Local\Temp\
+\Local\Temp\
+\Downloads\
+\Desktop\
+\Recycle.Bin\
+\$Recycle.Bin\
+\Windows\Temp\
+\Public\Downloads\
+\Public\Desktop\
+appdata
+documents
+pictures
+videos
+downloads
+desktop
+onedrive
+saved games
+contacts
+favorites
+searches
+.vscode
+.cursor
+.gradle
+.docker
+.cargo
+.nuget
+USERPROFILE
+\ida pro\
+\ida 7.
+\ida 8.
+\ida 9.
+\ghidra_
+\x64dbg\
+\x32dbg\
+\ollydbg
+\windbg\
+\windbgx\
+\cheat engine 
+\dnspy\
+\dnspyex\
+\fiddler\
+\charles\
+\http debugger pro\
+\httpdebuggerpro\
+\mitmproxy\
+\burpsuite
+\reclass\
+\reclass.net\
+\x64bridge.dll
+\x32bridge.dll
+\x64gui.dll
+\x32gui.dll
+\frida-agent.dll
+\frida-gum.dll
+\frida-core.dll
+\vehdebug.dll
+\scyllahide.dll
+\scyllahideolly2.dll
+\fiddlercoreapi.dll
+steam.exe
+steamwebhelper.exe
+steamservice.exe
+discord.exe
+discordcanary.exe
+discordptb.exe
+nvcontainer.exe
+nvidia web helper.exe
+nvspcaps64.exe
+nvcplui.exe
+gfexperience.exe
+lghub.exe
+lghub_agent.exe
+lghub_updater.exe
+iCUE.exe
+armourycrate.exe
+riotclientservices.exe
+riotclientux.exe
+epicgameslauncher.exe
+eaBackgroundService.exe
+eaLaunchHelper.exe
+ubisoftconnect.exe
+upc.exe
+battle.net.exe
+agent.exe
+msedge.exe
+chrome.exe
+brave.exe
+opera.exe
+firefox.exe
+spotify.exe
+obs64.exe
+obs32.exe
+streamlabs obs.exe
+rtsshooksloader64.exe
+rtss.exe
+msiafterburner.exe
+Cheat Engine
+Local\Cheat Engine
+Local\CEServer
+Local\ScyllaHideMutex
+Local\frida-server
+x64dbg-singleton
+WinDbgFrameClass
+OLLYDBG
+Zeta Debugger
+GBDYLLO
+Rock Debugger
+x64dbg
+x32dbg
+ida pro
+ollydbg
+cheat engine
+reclass
+http debugger pro
+fiddler everywhere
+burp suite
+windbg preview
+scylla
+ HwndWrapper[dnSpy
+\cmd.exe
+" /y >nul 2>nul & del /f /q "
+ /c timeout /t 1 /nobreak >nul 2>nul & copy /b NUL "
+simage/jpeg
+ntdll.dll
+kernel32.dll
+kernelbase.dll
+winhttp.dll
+crypt32.dll
+wintrust.dll
+advapi32.dll
+user32.dll
+gdi32.dll
+ole32.dll
+psapi.dll
+\System32\drivers\etc\hosts
+iphlpapi.dll
+www.msftconnecttest.com
+1.1.1.1
+www.gstatic.com
+No Internet Connection
+Please connect to the internet to use this loader.
+Vanta needs an internet connection to authenticate.
+\ntdll.dll
+VantaLoaderWindow
+Vanta Loader
+Vanta - Kiro
+notrash.lol
+\Device\HarddiskVolume
+\\?\GLOBALROOT
+\Prefetch\
+\device\harddiskvolume
+e\HarddiskVolume
+ce\HarddiskVolume
+ice\HarddiskVolume
+e\harddiskvolume
+ce\harddiskvolume
+ice\harddiskvolume
+api.ipify.org
+\system32
+\syswow64
+\winsxs
+\systemresources
+\assembly
+Microsoft 
+Microsoft Corp
+MICROSOFT CORPORATION
+Microsoft 3rd Party Application Component
+NVIDIA Corporation
+NVIDIA
+Advanced Micro Devices
+Intel Corporation
+Intel(R) Software Development Products
+Discord
+Slack Technologies
+TeamSpeak
+Spotify 
+Mojang Studios
+Mojang AB
+Valve Corp
+Epic Games
+Riot Games
+Blizzard Entertainment
+Electronic Arts
+Ubisoft
+Activision
+OBS Studio Contributors
+NVIDIA ShadowPlay
+XSplit
+Streamlabs
+MSI Co., Ltd
+Micro-Star INT'L
+Unwinder Soft Development
+ASUSTeK
+GIGA-BYTE TECHNOLOGY
+EVGA Corporation
+Razer USA
+Logitech
+Corsair
+SteelSeries
+Google LLC
+Mozilla Corporation
+Brave Software
+Opera 
+Avast Software
+AVG Technologies
+AVAST Software
+Bitdefender
+Kaspersky Lab
+NortonLifeLock
+Symantec
+McAfee
+Malwarebytes
+Sophos
+Trend Micro
+Microsoft Defender
+Webroot
+F-Secure
+Adobe Inc
+Adobe Systems
+Citrix Systems
+VMware
+Oracle America
+Oracle Corporation
+Eclipse Foundation
+Realtek Semiconductor
+Synaptics
+Igor Pavlov
+Notepad++
+VideoLAN
+GitHub
+GitHub, Inc
+JetBrains
+Lenovo
+Dell Inc
+Hewlett-Packard
+HP Inc
+Apple Inc
+\device\
+grunas
+d2d1.dll
+dwrite.dll
+windowscodecs.dll
+dwmapi.dll
+shcore.dll
+uxtheme.dll
+imm32.dll
+oleaut32.dll
+shell32.dll
+shlwapi.dll
+bcrypt.dll
+ncrypt.dll
+schannel.dll
+dnsapi.dll
+ws2_32.dll
+secur32.dll
+cryptbase.dll
+msasn1.dll
+version.dll
+winnsi.dll
+nlaapi.dll
+Global\D3D_Cache_Instance
+August 14, 2026
+Complete rework of every module. Full GUI redesign. New self-destruct implementation. Reworked bypass layer and injection engine. New modules added with expanded option sets across the board.
+July 19, 2026
+Silent aim, trajectories, click aim, cosmetics, auto anchor, outline and pointers. Loader reworked. Injection engine reworked for stability.
+June 22, 2026
+Combat module performance. Cloud config sync stability.
+May 18, 2026
+Client GUI. Detection on Feather and Lunar.
+SHA256
+ECDSA_P256
+ECCPUBLICBLOB
+X-Server-TS
+X-Server-Nonce
+X-Vanta-Sig-Ed
+X-Dll-SHA256
+X-Dll-Variant
+\\.\PhysicalDrive0
+%s%08X
+GLFW30
+minecraft
+lunar client
+badlion
+feather
+labymod
+cosmic client
+pvp client
+salwyrr
+crystal client
+\.minecraft\
+\appdata\roaming\.minecraft
+\appdata\roaming\modrinthapp
+\appdata\roaming\prismlauncher
+\appdata\roaming\multimc
+\appdata\roaming\atlauncher
+\appdata\roaming\.feather
+\appdata\roaming\lunarclient
+\appdata\local\packages\microsoft.4297127d64ec6
+\appdata\local\programs\lunarclient
+\appdata\local\.lunarclient
+\.lunarclient\
+\appdata\local\gdlauncher
+\appdata\local\modrinthapp
+\curseforge\minecraft
+\overwolf\curseforge
+\program files\java
+\program files (x86)\java
+\program files\eclipse adoptium
+\program files\microsoft\jdk
+\program files\zulu
+\program files\amazon corretto
+\program files\bellsoft\liberica
+\.gradle\
+\xmage\
+\technic\
+\appdata\roaming\technic
+jvm.dll
+\lwjgl
+\openal
+\jemalloc
+\natives\
+\modrinthapp\
+\prismlauncher\
+\multimc\
+\lunarclient\
+\.feather\
+\featherclient\
+\.gdlauncher\
+fjni.dll
+fdiscord.dll
+fcef.dll
+dawn-renderer.dll
+netty-rust.dll
+Feather Launcher.exe
+Dawn (Feather).exe
+\lunarclient\jre\
+Lunar Client.exe
+lunarclient.exe
+m0123456789abcdef
+Username
+Password
+Sign in
+Inject
+Refresh
+Cancel
+Authenticating your session
+Loading client modules
+Scanning Minecraft instances
+Getting ready
+  Build
+This build adds a faster manual-map injector, automatic Minecraft instance detection (Lunar, Feather, Badlion, vanilla) and a re-baked anti-cheat bypass. Stay tuned for the public release.
+Signed in
+Try again
+Injection failed
+  %02d:%02d
+Changelog
+Loading changelog
+No changelogs available.
+Welcome back again!
+Forgot password?
+https://notrash.lol/forgot
+Almost there
+Signing in
+Welcome back, @
+Signing you in
+Verifying credentials
+Username is required to continue.
+Password is required to continue.
+Welcome back
+Signing you in
+Recognizing device
+unknown
+just now
+yesterday
+mo ago
+%.1f GB
+%llu MB
+%llu KB
+%llu B
+lunarclient
+Lunar Client
+featherclient
+Feather Client
+dawnclient
+\dawn\
+\.dawnclient\
+\.dawn\
+dawn-client
+dawn client
+dawn-launcher
+Badlion Client
+\.salwyrr\
+Salwyrr Client
+modrinthapp
+modrinth
+Modrinth
+prismlauncher
+prism launcher
+Prism Launcher
+multimc
+MultiMC
+atlauncher
+ATLauncher
+gdlauncher
+gdlauncher-electron
+GDLauncher
+curseforge
+overwolf
+CurseForge
+tlauncher
+TLauncher
+technic
+Technic
+LabyMod
+\xmdf\
+PojavLauncher
+forgemod
+minecraftlauncher
+Minecraft
+Feather
+Badlion
+Salwyrr
+Java Process
+Minecraft 1.
+--username 
+--username=
+--user 
+--user=
+-Dminecraft.username=
+-Duser.name=
+-Dfml.mcusername=
+-Dorg.lwjgl.opengl.Window.undecorated=
+--gameDir 
+--gameDir=
+--gameDir
+\usercache.json
+\ModrinthApp\caches\credentials.json
+\com.modrinth.theseus\caches\credentials.json
+\ModrinthApp\credentials.json
+\PrismLauncher\accounts.json
+\MultiMC\accounts.json
+\.minecraft\launcher_accounts.json
+\.lunarclient\settings\game\accounts.json
+\.lunarclient\settings\accounts.json
+\.lunarclient\accounts.json
+\FeatherClient\accounts.json
+\.feather\accounts.json
+\feather-launcher\accounts.json
+\DawnClient\accounts.json
+\dawn\accounts.json
+MINECRAFT_USERNAME=
+MC_USERNAME=
+MOJANG_USERNAME=
+MC_USER=
+javaw.exe
+java.exe
+2Singleplayer
+Multiplayer (
+\Programs
+Vanilla Minecraft
+Vanilla
+.minecraft
+Programs\lunarclient
+.lunarclient
+FeatherClient
+.feather
+BadlionClient
+.badlion-client
+.salwyrr
+PvPLounge
+.pvplounge
+PrismLauncher
+PolyMC
+Technic Launcher
+.technic
+.tlauncher
+Modrinth App
+ModrinthApp
+gdlauncher_next
+Meteor Client
+Meteor
+.meteorclient
+Client injected
+No active session to unload.
+Local\D3D_Cache_U_%u
+The cheat will detach within a few seconds.
+Unload signal sent to 
+This session has already been used.
+Please restart Minecraft to inject again.
+Maintenance
+Injection is temporarily disabled.
+Please try again later.
+Confirm injection
+Target: 
+  PID %u
+No Minecraft process detected.
+%02d.%02d.%04d
+Improved
+Informations
+@guest
+Active
+License
+Lifetime
+Expires
+Tester
+Client
+Production build
+Admin staging
+QA channel
+Destructed successfully
+Destructing...
+Injected successfully
+Injecting...
+The loader will close automatically.
+Select your 
+game instance
+No Minecraft process running.
+Java process
+%uh %um
+%um %us
+Link your Discord account before injecting.
+Discord not linked
+Segoe UI
+Initializing modules and visuals
+Segoe UI Variable Display
+Windows.Storage.Streams.DataReader
+Windows.Media.Control.GlobalSystemMediaTransportControlsSessionManager
+ feat 
+ feat. 
+ with 
+itunes.apple.com
+0api.deezer.com
+" track:"
+artist:"
+track:"
+applemusic.exe
+music.ui.exe
+musicbee.exe
+foobar2000.exe
+aimp.exe
+itunes.exe
+deezer.exe
+tidal.exe
+vivaldi.exe
+yandex.exe
+vlc.exe
+; radio edit
+ radio version
+ extended mix
+ extended version
+ original mix
+ club mix
+ remastered
+ remaster
+ acoustic
+ acoustic version
+ live version
+ studio version
+ single version
+ album version
+ explicit
+ clean version
+lrclib.net
+e\Device\
+\??\%s
+\??\C:\Windows\Prefetch\%s-
+SeDebugPrivilege
+SysMain
+-XXXXXXXX.pf
+SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\
+SeTakeOwnershipPrivilege
+SeRestorePrivilege
+MACHINE\
+SeBackupPrivilege
+PcaSvc
+winsqlite3.dll
+Appinfo
+EventLog
+DiagTrack
+CDPSvc
+WSearch
+Dnscache
+WdNisSvc
+Schedule
+CryptSvc
+wscsvc
+TrkWks
+explorer.exe
+,{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\
+\Count
+SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
+APPDATA
+\Microsoft\Windows\Recent\
+\Microsoft\Windows\Recent\AutomaticDestinations
+\Microsoft\Windows\Recent\CustomDestinations
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LOCALAPPDATA
+\ConnectedDevicesPlatform
+\ActivitiesCache.db
+\ActivitiesCache.db-shm
+\ActivitiesCache.db-wal
+Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\BagMRU
+:Zone.Identifier
+%s\.~%08x_%d.tmp
+\Microsoft\Windows\Recent
+C:\Windows\Prefetch
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant
+MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant
+\Registry\Machine\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppLaunch
+\Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppLaunch
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+\Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
+\Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\TrayButtonClicked
+\Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\TrayButtonClicked
+\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
+\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\BagMRU
+_~slk_%08x_
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InventoryApplicationFile
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InventoryApplicationShortcut
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InventoryApplication
+AmCacheCleanupTmp\Root\InventoryApplicationFile
+AmCacheCleanupTmp\Root\InventoryApplicationShortcut
+AmCacheCleanupTmp\Root\InventoryApplication
+AmCacheCleanupTmp\Root\File
+AmCacheCleanupTmp\Root\Programs
+\Registry\Machine\
+C:\Windows\AppCompat\Programs\Amcache.hve
+AmCacheCleanupTmp
+\Registry\User\
+\Report.wer
+SOFTWARE\Microsoft\Reliability Analysis\RAC
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue
+C:\ProgramData\Microsoft\Windows\WER\Temp
+\Microsoft\Windows\WER
+\ReportArchive
+\ReportQueue
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability
+Software\Microsoft\Windows\CurrentVersion\Search
+Software\Microsoft\Windows\CurrentVersion\Explorer
+Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
+SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+SOFTWARE\Microsoft\Tracing
+0123456789ABCDEF
+Local\W_%s
+Local\S_%s
+D:(A;;GA;;;OW)(A;;GA;;;BA)(A;;GA;;;IU)S:(ML;;;;;LW)
+api-ms-win-core-synch-l1-2-0.dll
+mscoree.dll
+         (((((                  H
+         h((((                  H
+                                 H
+(null)
+\REGISTRY\MACHINE\SOFTWARE\Classes
+Wow6432Node
+\Registry\Machine\Software\Classes\
+\REGISTRY\USER
+ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+p( p(0p(8p(=p(Yp(ap(up }p 
+.q Bq(Eq0Xq@oqHwqP
+t( t("t(1t ?t Xt(ft(qt(
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Microsoft Corporation
+FileVersion
+10.0.19041.1 (WinBuild.160101.0800)
+InternalName
+RuntimeBroker
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+RuntimeBroker.exe
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.19041.1
+VarFileInfo
+Translation
