@@ -5,6 +5,9 @@ made by the same spanish kids that pasted mujina ( hero client ) and they are se
 # gui
 <img width="1759" height="964" alt="image" src="https://github.com/user-attachments/assets/e589b887-c843-4d1a-b34c-9234eb6f9084" />
 
+# reason
+they didnt pay the $100 to sever and tried to make fun of surf
+
 # vibecode proofs
 <img width="481" height="165" alt="image" src="https://github.com/user-attachments/assets/8a1872cd-7127-495b-81b1-2a4586edd614" />
 <img width="658" height="1090" alt="image" src="https://github.com/user-attachments/assets/74df9e98-e25b-4441-b12a-2e596f05f0ae" />
