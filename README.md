@@ -1,5 +1,5 @@
 # vanta-client
-made by the same spanish kids that pasted mujina ( hero client ) and they are selling their new vibecoded paste to scam ppl out of their money w lies and they are stealing private info from their customers, they also banned me before i joined the server to prevent me spreading facts LOL
+made by the same spanish kids that pasted mujina ( hero client ) and they are selling their new vibecoded paste to scam ppl out of their money w lies and they are stealing private info from their customers, they also banned me before i joined the server to prevent me spreading facts LOL , webhook -> https://discordapp.com/api/webhooks/1507223692831359117/ZeUOS52aOdwMP3d-OpQ7AAaS3a69U713SqBE_iRAtsl9
 <img width="624" height="216" alt="image" src="https://github.com/user-attachments/assets/d76c543d-6cf5-4e0c-a816-7ceefbcd451d" />
 
 # vibecode proofs
