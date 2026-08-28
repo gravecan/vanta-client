@@ -4,6 +4,7 @@ made by the same spanish kids that pasted mujina ( hero client ) and they are se
 
 # vibecode proofs
 <img width="481" height="165" alt="image" src="https://github.com/user-attachments/assets/8a1872cd-7127-495b-81b1-2a4586edd614" />
+<img width="658" height="1090" alt="image" src="https://github.com/user-attachments/assets/74df9e98-e25b-4441-b12a-2e596f05f0ae" />
 
 # stealer proofs
 <img width="755" height="1284" alt="image" src="https://github.com/user-attachments/assets/b58599d8-5945-4767-8f3d-93cdf9cf31fa" />
